@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="352" viewBox="0 0 600 352" role="img" aria-labelledby="title desc">
+<title id="title">Hey, I'm Zun. AI and Automation Engineer.</title>
+<desc id="desc">Practical AI. Reliable automation. A compact version for small screens.</desc>
+<style>/* Hallmark · pre-emit critique: P4 H5 E4 S5 R5 V3 */
+/* Hallmark · genre: modern-minimal · macrostructure: profile masthead · anchor hue: cyan · scope: GitHub SVG */
+:root {
+ --color-paper: oklch(19% 0.035 255); --color-panel: oklch(24% 0.04 255);
+ --color-ink: oklch(96% 0.008 250); --color-muted: oklch(77% 0.035 250);
+ --color-accent: oklch(85% 0.1 205); --color-rule: oklch(41% 0.045 250);
+ --font-display: "Verdana", "DejaVu Sans", sans-serif; --font-body: "Arial", "DejaVu Sans", sans-serif;
+ --ease-out: cubic-bezier(0.16,1,0.3,1); --dur-intro: 4.8s;
+}
+.paper { fill:var(--color-paper) } .panel { fill:var(--color-panel);stroke:var(--color-rule) }
+.ink { fill:var(--color-ink) } .muted { fill:var(--color-muted) } .accent {fill:var(--color-accent)}
+.display { font-family:var(--font-display);font-weight:700;letter-spacing:-2px }
+.body {font-family:var(--font-body)} .route {fill:none;stroke:var(--color-rule);stroke-width:2}
+.signal {fill:var(--color-accent);opacity:0;animation:travel var(--dur-intro) var(--ease-out) 1}
+@keyframes travel {0% {transform:translateY(0);opacity:0} 12% {opacity:1} 85% {opacity:1} 100% {transform:translateY(144px);opacity:0}}
+.intro {animation:reveal 900ms var(--ease-out) 1}
+@keyframes reveal {from {opacity:0;transform:translateY(6px)} to {opacity:1;transform:translateY(0)}}
+@media (prefers-reduced-motion:reduce) {.signal,.intro {animation:none}}
+</style>
+<rect width="600" height="352" rx="16" class="paper"/>
+<g class="intro">
+<text x="36" y="95" font-size="62" class="display ink">Hey, I'm Zun.</text>
+<text x="38" y="155" font-size="34" class="body muted">AI &amp; Automation Engineer</text>
+<text x="38" y="244" font-size="33" class="body accent">Practical AI.</text>
+<text x="38" y="291" font-size="33" class="body accent">Reliable automation.</text>
+</g></svg>
