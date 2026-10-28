@@ -1,10 +1,11 @@
-<div align="center">
+<div align="left">
 
-<img src="./assets/profile-header.svg" width="960" alt="Hey, I'm Zun — AI &amp; Automation Engineer. Practical AI. Reliable automation." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
+  <img src="./assets/profile-header.svg" width="960" alt="Hey, I'm Zun — AI &amp; Automation Engineer. Practical AI. Reliable automation." />
+</picture>
 
 I build tools that turn documents, data, and repetitive work into useful business workflows.
-
-**AI agents · Document intelligence · Business automation**
 
 [LinkedIn](https://www.linkedin.com/in/azizun-ussama/) · [Previous GitHub](https://github.com/ussama-azizun)
 
@@ -18,13 +19,13 @@ I build tools that turn documents, data, and repetitive work into useful busines
 
 ---
 
-### 👨‍💻 A little about me
+### A little about me
 
 I'm an IT Consultant with a background in RPA and AI engineering. My work connects business processes with software: understanding the workflow, building the tools, and getting them running.
 
 I enjoy working where structured automation meets AI, especially when a task involves messy spreadsheets, business documents, or repetitive manual steps.
 
-### 🛠️ What I work on
+### What I work on
 
 | Area | What I build |
 | :--- | :--- |
@@ -33,7 +34,7 @@ I enjoy working where structured automation meets AI, especially when a task inv
 | **Data transformation** | Tools for mapping, cleaning, validating, and combining spreadsheet data. |
 | **Applications & deployment** | Web interfaces, APIs, databases, and Docker deployments on Linux. |
 
-### 📂 Work I've been building
+### Work I've been building
 
 **Document & expense workflows**  
 Receipt extraction, review and approval flows, and structured Excel exports.
@@ -44,17 +45,17 @@ Spreadsheet-to-schema mapping with normalization, validation, and human review.
 **Reusable AI development skills**  
 Repository-grounded guidance for integrating tools and working with current APIs.
 
-### ⚙️ My toolbox
+### My toolbox
 
 **Code & data** · Python, pandas, openpyxl, SQL, FastAPI, React, PostgreSQL  
 **Automation** · Blue Prism, Power Automate, n8n, Dify  
 **Delivery** · Git, Docker, Linux
 
-### 🌱 Exploring next
+### Exploring next
 
 AI agents that fit into real business workflows, better document understanding, and reusable tooling that makes integrations easier to maintain.
 
-### 🎤 Speaking & credentials
+### Speaking & credentials
 
 - **Blue Prism Certified Developer** · SS&C Blue Prism · 2024
 - **Level I Python Certification** · Robocorp · 2024
