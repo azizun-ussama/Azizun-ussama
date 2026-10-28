@@ -1,10 +1,6 @@
 <div align="center">
 
-<sub>AZIZUN USSAMA · THAILAND</sub>
-
-# Hey, I'm Zun 👋
-
-### AI & Automation Engineer
+<img src="./assets/profile-header.svg" width="960" alt="Hey, I'm Zun — AI &amp; Automation Engineer. Practical AI. Reliable automation." />
 
 I build tools that turn documents, data, and repetitive work into useful business workflows.
 
