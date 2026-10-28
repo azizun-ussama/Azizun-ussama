@@ -1,8 +1,8 @@
 <div align="left">
 
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg" />
-  <img src="./assets/profile-header.svg" width="960" alt="Hey, I'm Zun — AI &amp; Automation Engineer. Practical AI. Reliable automation." />
+  <source media="(max-width: 600px)" srcset="./assets/profile-header-mobile.svg?v=2" />
+  <img src="./assets/profile-header.svg?v=2" width="960" alt="Hey, I'm Zun — AI &amp; Automation Engineer. Practical AI. Reliable automation." />
 </picture>
 
 I build tools that turn documents, data, and repetitive work into useful business workflows.
